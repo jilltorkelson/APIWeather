@@ -1,0 +1,8 @@
+Current weather for Norfolk on Thursday, December 07, 2023 00:55AM
+temp in C = 0.5
+temp in F = 32.9
+% Cloud Cover: 100
+Humidity: 94
+Precipitation Probability: 0
+Wind Direction: 135.5
+Wind Speed: 3.69
